@@ -48,7 +48,7 @@ A beautifully crafted **landing page for a sweet shop**, built using **HTML and 
 
 ## 📁 GitHub Repository
 
-🔗 [View source code here](https://github.com/your-username/Zeeza-Sweets)
+🔗 [View source code here](https://github.com/Srinithish-dev-lab/Zeeza-Sweets-Landing-Page)
 
 ---
 
