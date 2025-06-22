@@ -39,7 +39,7 @@ Check out the live demo here 👀:
 
 ## 📁 GitHub Repository
 
-🔗 
+🔗 https://github.com/Srinithish-dev-lab/Zeeza-Sweets-Landing-Page
 
 ---
 
