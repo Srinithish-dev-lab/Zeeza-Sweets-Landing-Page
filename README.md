@@ -33,7 +33,7 @@ A beautifully crafted **landing page for a sweet shop**, built using **HTML and 
 ## 🌐 Live Demo
 
 Check out the live demo here 👀:  
-🔗 
+🔗 https://srinithish-dev-lab.github.io/Zeeza-Sweets-Landing-Page/
 
 ---
 
