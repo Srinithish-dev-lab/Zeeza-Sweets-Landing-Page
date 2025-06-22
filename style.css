@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fff8e7;
+  font-family: "Poppins", sans-serif;
+}
+
+h1,
+h4 {
+  font-family: "Pacifico", cursive;
+}
+
+.title_section,
+.contact__section {
+  background-color: #fec89a;
+}
+
+.contact__table * {
+  background-color: #fec89a;
+}
+
+.title_section__title,
+.title_section__navbar a,
+.contact__table h1,
+.contact__table td .contact__table__btn {
+  color: #5c3a21;
+}
+
+/* Title Section */
+
+.title_section {
+  padding: 10px 0px;
+  text-align: center;
+  width: 100%;
+}
+
+.title_section__title {
+  margin-bottom: 10px;
+}
+
+.title_section__navbar {
+  display: inline-block;
+  padding: 5px 15px;
+}
+
+.title_section__navbar a {
+  text-decoration: none;
+  margin: 8px;
+  padding: 6px;
+  background-color: transparent;
+}
+
+.title_section__navbar a:hover {
+  border-bottom: 2px solid #5c3a21;
+}
+
+/* Card Section */
+
+.card_section {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 40px 0px;
+}
+
+.card {
+  width: 200px;
+  padding: 10px;
+  color: #5c3a21;
+  border: 1px solid #5c3a21;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card__button {
+  background-color: #fec89a;
+  color: #5c3a21;
+  border: none;
+  border: 1px solid #5c3a21;
+  padding: 5px;
+  margin-top: 15px;
+}
+
+.card__button:hover {
+  background-color: #d291bc;
+  color: white;
+  cursor: pointer;
+}
+
+/* Contact Section */
+
+.contact__section {
+  padding: 10px 0px;
+  text-align: center;
+  width: 100%;
+}
+
+.contact__table {
+  display: inline-block;
+  padding: 10px;
+}
+
+.contact__table input {
+  background-color: white;
+  margin: 5px;
+}
+
+.contact__table__btn {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  background-color: white;
+  padding: 5px 10px;
+  width: 100%;
+  border: 1px solid #5c3a21;
+}
+
+.contact__table__btn:hover {
+  color: white;
+  background-color: #d291bc;
+  cursor: pointer;
+}
